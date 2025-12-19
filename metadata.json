@@ -1,0 +1,8 @@
+{
+  "name": "Willow Messenger",
+  "description": "A smart, blue-themed messaging app powered by Gemini.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
