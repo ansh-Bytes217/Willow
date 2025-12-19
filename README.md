@@ -1,4 +1,4 @@
-# OmniTalk — AI-Powered Real-Time Communication Platform#
+# OmniTalk — AI-Powered Real-Time Communication Platform
 
 OmniTalk is a modern, scalable, full-stack communication platform combining real-time messaging, voice/video calling, media sharing, news integration, and user-created AI assistants in a single ecosystem.
 
